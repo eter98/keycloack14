@@ -9,7 +9,7 @@
         "heroku"
     ],
     "stack": "container",
-    "repository": "https://gitlab.com/luis.armando.gonzalez/keycloak14",
+    "repository": "https://github.com/eter98/keycloack14",
     "logo": "https://www.keycloak.org/resources/images/keycloak_logo_480x108.png",
     "success_url": "/",
     "env": {
